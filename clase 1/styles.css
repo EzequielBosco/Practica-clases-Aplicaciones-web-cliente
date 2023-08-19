@@ -1,0 +1,18 @@
+body {
+    background-color: rgba(29, 56, 29, 0.664);
+    color:rgb(255, 235, 205)
+}
+
+img {
+    width: 100px;
+}
+
+table {
+    border: 1px solid black;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: left;
+}
